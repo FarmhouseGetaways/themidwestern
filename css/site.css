@@ -40,7 +40,7 @@ h1, h2, h3, .display {
 }
 
 a { color: var(--oxblood); }
-img { max-width: 100%; display: block; }
+img { max-width: 100%; height: auto; display: block; }
 
 .wrap {
   max-width: 1080px;
